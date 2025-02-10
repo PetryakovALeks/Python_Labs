@@ -18,7 +18,7 @@ def sum_na(number):
             summa += di_int
     return summa
 
-# Пример использования:
+
 number = 1234567890
 sum_digits_divisible_by_3 = sum_na(number)
 print(f"Сумма цифр числа {number}, делящихся на 3: {sum_digits_divisible_by_3}")
