@@ -26,3 +26,4 @@ def average_of_non_primes_above_primes_average(lst):
 lst = [2, 3, 4, 5, 6, 7, 8, 9, 10]
 result = average_of_non_primes_above_primes_average(lst)
 print(result)  # Вывод: 7.0
+print(result)  
