@@ -7,11 +7,11 @@ def create_latin_english_dict(english_latin_dict):
                 latin_english_dict[latin_word] = []
             latin_english_dict[latin_word].append(english_word)
 
-    # Сортируем латинские слова и их переводы
+   
     for latin_word in latin_english_dict:
         latin_english_dict[latin_word].sort()
 
-    # Сортируем словарь по латинским словам
+   
     sorted_latin_english_dict = dict(sorted(latin_english_dict.items()))
 
     return sorted_latin_english_dict
