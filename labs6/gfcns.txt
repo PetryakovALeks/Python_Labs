@@ -1,0 +1,5 @@
+python -m http.server --cgi 8000
+http://localhost:8000/cgi-bin/manage.py
+http://localhost:8000/cgi-bin/add_style.py
+http://localhost:8000/cgi-bin/add_dancer.py
+cd C:\Users\Александр\Desktop\Лабы\----------\labs6

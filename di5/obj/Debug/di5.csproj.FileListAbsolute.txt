@@ -1,0 +1,37 @@
+C:\Users\Александр\Desktop\di5\bin\Debug\di5.exe
+C:\Users\Александр\Desktop\di5\bin\Debug\di5.exe.config
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.ButTicketForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.historyForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.MainForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.MyForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.Properties.Resources.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.RaspForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.TeamForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.exe
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.pdb
+C:\Users\Александр\Desktop\di5\bin\Debug\di5.pdb
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.AdminLoginForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.AdminMatchesForm.resources
+C:\Users\Александр\Desktop\di5\obj\Debug\di5.AdminPanelForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\bin\Debug\di5.exe.config
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\bin\Debug\di5.exe
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\bin\Debug\di5.pdb
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.AdminLoginForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.AdminMatchesForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.AdminPanelForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.ButTicketForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.historyForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.MainForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.MyForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.Properties.Resources.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.RaspForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.TeamForm.resources
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.exe
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.pdb
+C:\Users\Александр\Desktop\Учеба КУБГТУ\2 курс\Дизайн пользовательских интерфейсов\di5\obj\Debug\di5.HelpForm.resources
